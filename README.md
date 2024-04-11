@@ -8,3 +8,4 @@ The project aims to write a program that allows for designing structures describ
 Group : BOGDANOVIC William - TRABBIA Joffrey
 
 ------------------------------
+![image](git_images/image_2024-04-11_172323882.png)
